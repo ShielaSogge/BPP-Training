@@ -1,0 +1,5 @@
+In order to fully participate in the Business performance planning Partner Enablement workshop, the following steps must be completed.
+An environment with Buisness performance planning installed. [Install Business performance planning]([https://learn.microsoft.com/en-us/dynamics365/finance/business-performance-planning/bpp-app-install#install-the-app)
+  Partners have the option of utilizing a Partner Tier 2 sandbox environment OR they may utiilize a Fabric** trial license with Power BI.  **NOte:  A fabric trial license is only good for 5 weeks, so please consider the timing of the training class when signing up for the trial.  A Power BI trial instance can be used but a Power BI Pro license is prefered. 
+After BPP is installed, ensure that one user is assigned the BPP Admin role, and the Dataflows maker role.
+After installing BPP, install the BPP add-in.  [Install Excel Add-in](https://learn.microsoft.com/en-us/dynamics365/finance/business-performance-planning/install-excel-add)
